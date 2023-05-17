@@ -1,0 +1,29 @@
+.faillogo {
+  height: 50%;
+  width: auto;
+}
+.retrybtn {
+  color: aliceblue;
+  background-color: rgb(112, 112, 187);
+  border-radius: 5px;
+  padding: 5px;
+}
+.failbg {
+  background-color: rgb(40, 40, 69);
+  text-align: center;
+  padding: 5px;
+}
+.leftbg {
+  width: 30%;
+}
+.rightbg {
+  width: 60%;
+  text-align: center;
+}
+.bg {
+  display: flex;
+  flex-direction: row;
+}
+.lists {
+  list-style-type: none;
+}

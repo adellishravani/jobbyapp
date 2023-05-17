@@ -1,0 +1,28 @@
+.logodiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.jobbg {
+  background-color: rgb(37, 37, 66);
+  padding: 5px;
+  margin: 5px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+.titlelogo {
+  height: 50px;
+  width: 50px;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.title {
+  color: aliceblue;
+}
+.jobdetails {
+  color: aliceblue;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

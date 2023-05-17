@@ -1,0 +1,12 @@
+.login-form-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.login-button {
+  color: aliceblue;
+  background-color: rgb(12, 12, 122);
+  padding: 5px;
+  border-radius: 5px;
+}
